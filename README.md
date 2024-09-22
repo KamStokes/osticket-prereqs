@@ -22,7 +22,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Create an Azure Virtual Machine (Windows 10, 4 vCPUs)
+- Create an Azure Virtual Machine (Windows 10, 4 vCPUs recommended)
 - Log into the VM with Remote Desktop
 - Within the VM, download the [osTicket-Installation-Files.zip](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD) and unzip/extract it onto your desktop. The folder should be called “osTicket-Installation-Files”
   
